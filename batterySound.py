@@ -18,7 +18,7 @@ def play_sound(sound_file):
 
 #SoundFile will be in rep
 
-sound_file = '/Users/joseguerrero/Downloads/new-notification-138807.mp3'
+sound_file = 'new-notification-138807.mp3'
 percent = 10
 lBatteryCheck = int (0)
 while True:
