@@ -34,4 +34,4 @@ while True:
         lBatteryCheck = percent_left
         
     else:
-        time.sleep(241)
+        time.sleep(300)
