@@ -2,7 +2,6 @@ import psutil
 import time
 import pygame
 
-#Testing
 
 #Function that searches for the file with the sound and plays it
 def play_sound(sound_file):
@@ -16,6 +15,9 @@ def play_sound(sound_file):
 #Pathname to sound file
 #In sound_file you can add your own path to the sound that you want
 #Im still learning :)
+
+#SoundFile will be in rep
+
 sound_file = '/Users/joseguerrero/Downloads/new-notification-138807.mp3'
 percent = 10
 lBatteryCheck = int (0)
